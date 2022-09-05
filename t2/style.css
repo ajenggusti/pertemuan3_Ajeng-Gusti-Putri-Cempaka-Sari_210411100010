@@ -1,0 +1,14 @@
+body{
+    background: rgb(138, 179, 255);
+}
+h1{
+    text-align: center;
+    font-family: Copperplate;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(203, 139, 139);
+
+}
